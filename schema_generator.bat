@@ -1,0 +1,2 @@
+c:\python39\python.exe -m sgqlc.introspection --exclude-deprecated --exclude-description https://rickandmortyapi.com/graphql/ schema.json
+c:\python39\python.exe C:\Python39\Scripts\sgqlc-codegen.py schema.json schema.py
